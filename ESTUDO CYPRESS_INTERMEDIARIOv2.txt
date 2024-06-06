@@ -1,7 +1,4 @@
-SENHA ROOT: SENHA243107
 
-Login: ironnwill@gmail.com
-senha: SENHA243107
 
 para subir alterações para o cypress
     git add .
